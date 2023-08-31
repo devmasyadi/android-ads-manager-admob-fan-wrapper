@@ -1,1 +1,1 @@
-# android-ads-manager-admob-wrapper
+# android-ads-manager-admob-fan-wrapper
